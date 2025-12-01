@@ -1,2 +1,3 @@
-v1.0.0.8
-- Added Otherworld Blizzard track by Soba Noodles (thank you!)
+v1.0.0.9
+- Improved mod icon
+- Removed Overseer
