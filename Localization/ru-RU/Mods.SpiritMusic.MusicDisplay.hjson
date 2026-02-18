@@ -46,7 +46,7 @@ MarbleBiome: {
 }
 
 Meteor: {
-	DisplayName: Space Rocks! (тема места падения метеорита)
+	DisplayName: Space Rocks! (тема метеорита)
 	Author: "{$BySalvati}"
 }
 
@@ -66,7 +66,7 @@ SkeletronPrime: {
 }
 
 LavaLayer: {
-	DisplayName: Magmatic Depths (тема пещер на уровне лавы)
+	DisplayName: Magmatic Depths (тема уровня лавы)
 	Author: "{$BySbubby}"
 }
 
@@ -81,11 +81,12 @@ TownUnderground: {
 }
 
 VictoryDay: {
-	DisplayName: Overworld Alt Alt (тема «Победоносный дня»)
+	DisplayName: Overworld Alt Alt (тема «Победоносный день»)
 	Author: "{$BySalvati}"
 }
 
 OtherworldBlizzard: {
-	// DisplayName: Otherworldly Blizzard
-	// Author: "{$By} Soba Noodles"
+	DisplayName: Otherworldly Blizzard (иномирная тема метели)
+	Author: "{$By} Soba Noodles"
 }
+

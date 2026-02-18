@@ -44,12 +44,12 @@ Configs: {
 
 		Marble: {
 			Label: Мраморная пещера
-			Tooltip: Включает музыкальную тему мраморного биома: «Regal Tunnel»
+			Tooltip: Включает музыкальную тему мраморной пещеры: «Regal Tunnel»
 		}
 
 		Meteor: {
-			Label: Место падения метеорита
-			Tooltip: Включает музыкальную тему места падения метеорита: «Space Rocks!»
+			Label: Метеорит
+			Tooltip: Включает музыкальную тему метеорита: «Space Rocks!»
 		}
 
 		Spider: {
@@ -126,7 +126,7 @@ Items: {
 	}
 
 	MeteorBoxItem: {
-		DisplayName: Музыкальная шкатулка (Место падения метеорита)
+		DisplayName: Музыкальная шкатулка (Метеорит)
 		Tooltip: ""
 	}
 
@@ -146,7 +146,7 @@ Items: {
 	}
 
 	LavaLayerBoxItem: {
-		DisplayName: Музыкальная шкатулка (Пещеры, уровень лавы)
+		DisplayName: Музыкальная шкатулка (Уровень лавы)
 		Tooltip: ""
 	}
 
@@ -166,7 +166,8 @@ Items: {
 	}
 
 	OtherworldBlizzardBoxItem: {
-		// DisplayName: Music Box (Otherworld Blizzard)
-		// Tooltip: ""
+		DisplayName: Иномирная музыкальная шкатулка (Метель)
+		Tooltip: ""
 	}
 }
+
