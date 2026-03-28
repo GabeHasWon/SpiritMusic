@@ -68,7 +68,7 @@ Configs: {
 		}
 
 		NeonMoss: {
-			Label: Светящийся мох
+			Label: Пещера светящегося мха
 			Tooltip: Включает музыкальную тему пещер светящегося мха: «Radiant Grotto»
 		}
 
@@ -79,7 +79,7 @@ Configs: {
 
 		VictoryDay: {
 			Label: «Победоносный день»
-			Tooltip: Включает музыкальную тему «Победоносный день»: «Overworld Alt Alt»
+			Tooltip: Включает музыкальную тему «победоносного дня»: «Overworld Alt Alt»
 		}
 	}
 }
@@ -156,7 +156,7 @@ Items: {
 	}
 
 	UndergroundTownBoxItem: {
-		DisplayName: Музыкальная шкатулка (Город в пещерах)
+		DisplayName: Музыкальная шкатулка (Пещерный город)
 		Tooltip: ""
 	}
 
