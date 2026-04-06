@@ -166,7 +166,7 @@ Items: {
 	}
 
 	OtherworldBlizzardBoxItem: {
-		DisplayName: Music Box (Otherworld Blizzard)
+		DisplayName: Otherworldly Music Box (Blizzard)
 		Tooltip: ""
 	}
 }
