@@ -1,3 +1,2 @@
-v1.0.0.9
-- Improved mod icon
-- Removed Overseer
+v1.0.0.10
+- Improved Russian localization a lot (thanks alinahvoshch)
