@@ -10,6 +10,9 @@
 	<ItemGroup>
 	  <None Remove="Localization\en-US\Mods.SpiritMusic.MusicDisplay.hjson" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Localization\pt-BR\" />
+	</ItemGroup>
 
 	<!-- References -->
 

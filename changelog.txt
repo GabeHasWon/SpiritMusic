@@ -1,2 +1,2 @@
-v1.0.0.10
-- Improved Russian localization a lot (thanks alinahvoshch)
+v1.0.0.11
+- Added Portuguese localization (thanks Hari!)

@@ -1,0 +1,172 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: Configurações de Música
+
+		Blizzard: {
+			Label: Tempestade de Neve
+			Tooltip: Ativa o tema da Tempestade de Neve ("Tempestades de Arrepiar").
+		}
+
+		CorruptNight: {
+			Label: Corrupção Noturna
+			Tooltip: Ativa o tema da Corrupção de Noite ("Fonte de Pesadelos").
+		}
+
+		CrimsonNight: {
+			Label: Carmim Noturno
+			Tooltip: Ativa o tema do Carmim de Noite ("Vales Sangrentos").
+		}
+
+		SnowNight: {
+			Label: Neve Noturna
+			Tooltip: Ativa o tema da Neve de Noite ("Estrelas Geladas").
+		}
+
+		HallowNight: {
+			Label: Consagração Noturna
+			Tooltip: Ativa o tema da Consagração de Noite ("Uma Vista Maravilhosa").
+		}
+
+		DesertNight: {
+			Label: Deserto Noturno
+			Tooltip: Ativa o tema do Deserto de Noite ("Dunas Silenciosas").
+		}
+
+		FrostLegion: {
+			Label: Legião Congelada
+			Tooltip: Ativa o tema da Legião Congelada ("Frio Malvadão").
+		}
+
+		Granite: {
+			Label: Granito
+			Tooltip: Ativa o tema do bioma de Granito ("Pedras Ressonantes").
+		}
+
+		Marble: {
+			Label: Mármore
+			Tooltip: Ativa o tema do bioma de Mármore ("Túnel Real").
+		}
+
+		Meteor: {
+			Label: Meteoro
+			Tooltip: Ativa o tema do bioma de Meteoro ("Pedras do Espaço!").
+		}
+
+		Spider: {
+			Label: Aranha
+			Tooltip: Ativa o tema da Caverna de Aranha ("Horrores Aracnídeos").
+		}
+
+		SkeletronPrime: {
+			Label: Esqueletron Alfa
+			Tooltip: Ativa o tema do Esqueletron Alfa ("Assalto Mecânico").
+		}
+
+		LavaLayer: {
+			Label: Camada de Lava
+			Tooltip: Ativa o tema da Camada de Lava ("Profundezas Magmáticas").
+		}
+
+		NeonMoss: {
+			Label: Musgo Brilhante
+			Tooltip: Ativa o tema do bioma de Musgo Brilhante ("Gruta Radiante").
+		}
+
+		TownUnderground: {
+			Label: Cidade Subterrânea
+			Tooltip: Ativa o tema de Cidade Subterrânea ("Abrigo Subsuperfície").
+		}
+
+		VictoryDay: {
+			Label: Dia Vitorioso
+			Tooltip: Ativa o tema de Dia Vitorioso ("Superfície Alt Alt").
+		}
+	}
+}
+
+Items: {
+	BlizzardBoxItem: {
+		DisplayName: Caixinha de Música (Tempestade de Neve)
+		Tooltip: ""
+	}
+
+	CorruptNightBoxItem: {
+		DisplayName: Caixinha de Música (Corrupção de Noite)
+		Tooltip: ""
+	}
+
+	CrimsonNightBoxItem: {
+		DisplayName: Caixinha de Música (Carmim)
+		Tooltip: ""
+	}
+
+	DesertNightBoxItem: {
+		DisplayName: Caixinha de Música (Deserto de Noite)
+		Tooltip: ""
+	}
+
+	FrostLegionBoxItem: {
+		DisplayName: Caixinha de Música (Legião Congelada)
+		Tooltip: ""
+	}
+
+	GraniteBoxItem: {
+		DisplayName: Caixinha de Música (Granito)
+		Tooltip: ""
+	}
+
+	HallowNightBoxItem: {
+		DisplayName: Caixinha de Música (Consagrado de Noite)
+		Tooltip: ""
+	}
+
+	MarbleBoxItem: {
+		DisplayName: Caixinha de Música (Mármore)
+		Tooltip: ""
+	}
+
+	MeteorBoxItem: {
+		DisplayName: Caixinha de Música (Meteóro)
+		Tooltip: ""
+	}
+
+	SkeletronPrimeBoxItem: {
+		DisplayName: Caixinha de Música (Esqueletron Alfa)
+		Tooltip: ""
+	}
+
+	SnowNightBoxItem: {
+		DisplayName: Caixinha de Música (Neve de Noite)
+		Tooltip: ""
+	}
+
+	SpiderCaveBoxItem: {
+		DisplayName: Caixinha de Música (Caverna de Aranha)
+		Tooltip: ""
+	}
+
+	LavaLayerBoxItem: {
+		DisplayName: Caixinha de Música (Camada de Lava)
+		Tooltip: ""
+	}
+
+	NeonMossBoxItem: {
+		DisplayName: Caixinha de Música (Musgo Brilhante)
+		Tooltip: ""
+	}
+
+	UndergroundTownBoxItem: {
+		DisplayName: Caixinha de Música (Cidade Subterrânea)
+		Tooltip: ""
+	}
+
+	VictoryDayBoxItem: {
+		DisplayName: Caixinha de Música (Dia Vitorioso)
+		Tooltip: ""
+	}
+
+	OtherworldBlizzardBoxItem: {
+		DisplayName: Caixinha de Música de Outro Mundo (Tempestade de Neve)
+		Tooltip: ""
+	}
+}
