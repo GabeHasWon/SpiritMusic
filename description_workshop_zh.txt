@@ -1,0 +1,30 @@
+--- 魂灵音乐 ---
+
+本模组旨在通过为那些原本没有音乐的地方添加音乐以此改善你的泰拉瑞亚游戏体验——天气、事件、原版生物群系等等。
+目前，本模组为世界各处添加了16首音乐曲目。
+
+如果你只想留着其中一部分音乐的话，你也可以在配置中单独关闭每一首曲目。
+本模组也支持Music Display模组。
+
+--- 致谢 ---
+音乐：salvati & sbubby
+特邀音乐：Soba Noodles
+
+图标：sal
+程序：gabehaswon
+俄语本地化：nexora
+葡萄牙语本地化：Hari
+简体中文本地化：Lin
+
+去听听Salvati和Sbubby的作品！他们是非常棒的音乐家。
+
+-- Salvati --
+YouTube：https://www.youtube.com/@cyndacat76
+SoundCloud：https://soundcloud.com/cyndacat76
+
+-- Sbubby --
+YouTube：https://www.youtube.com/@Sbubby
+SoundCloud：https://soundcloud.com/sbubbyreal
+
+特邀嘉宾：
+Soba Noodles（Otherworldly Blizzard）：https://www.youtube.com/@sobanoodles4286

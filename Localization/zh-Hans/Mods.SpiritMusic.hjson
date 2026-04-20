@@ -1,0 +1,172 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: 音乐配置
+
+		Blizzard: {
+			Label: 暴雪
+			Tooltip: 开关暴雪（"Shivering Storms"）音乐。
+		}
+
+		CorruptNight: {
+			Label: 腐化夜晚
+			Tooltip: 开关腐化夜晚（"Nightmare Fuel"）音乐。
+		}
+
+		CrimsonNight: {
+			Label: 猩红夜晚
+			Tooltip: 开关猩红夜晚（"Shivering Storms"）音乐。
+		}
+
+		SnowNight: {
+			Label: 雪原夜晚
+			Tooltip: 开关雪原夜晚（"Icy Storms"）音乐。
+		}
+
+		HallowNight: {
+			Label: 神圣夜晚
+			Tooltip: 开关神圣夜晚（"Wonderous Landscape"）音乐。
+		}
+
+		DesertNight: {
+			Label: 沙漠夜晚
+			Tooltip: 开关沙漠夜晚（"Kempt Dunes"）音乐。
+		}
+
+		FrostLegion: {
+			Label: 冰霜军团
+			Tooltip: 开关冰霜军团（"Tougher Chill"）音乐。
+		}
+
+		Granite: {
+			Label: 花岗岩
+			Tooltip: 开关花岗岩生物群系（"Resounding Stones"）音乐。
+		}
+
+		Marble: {
+			Label: 大理石
+			Tooltip: 开关大理生物群系（"Regal Tunnel"）音乐。
+		}
+
+		Meteor: {
+			Label: 陨石
+			Tooltip: 开关陨石生物群系（"Space Rocks!"）音乐。
+		}
+
+		Spider: {
+			Label: 蜘蛛
+			Tooltip: 开关蜘蛛洞（"Xyresic Horrors"）音乐。
+		}
+
+		SkeletronPrime: {
+			Label: 机械骷髅王
+			Tooltip: 开关机械骷髅王（"Thermite Assault"）音乐。
+		}
+
+		LavaLayer: {
+			Label: 熔岩层
+			Tooltip: 开关熔岩层（"Magmatic Depths"）音乐。
+		}
+
+		NeonMoss: {
+			Label: 氖苔藓
+			Tooltip: 开关氖苔藓生物群系（"Radiant Grotto"）音乐。
+		}
+
+		TownUnderground: {
+			Label: 地下城镇
+			Tooltip: 开关地下城镇（"Subsurface Settlement"）音乐。
+		}
+
+		VictoryDay: {
+			Label: 胜利日
+			Tooltip: 开关胜利日（"Overworld Alt Alt"）音乐。
+		}
+	}
+}
+
+Items: {
+	BlizzardBoxItem: {
+		DisplayName: 八音盒（暴雪）
+		Tooltip: ""
+	}
+
+	CorruptNightBoxItem: {
+		DisplayName: 八音盒（腐化夜晚）
+		Tooltip: ""
+	}
+
+	CrimsonNightBoxItem: {
+		DisplayName: 八音盒（猩红夜晚）
+		Tooltip: ""
+	}
+
+	DesertNightBoxItem: {
+		DisplayName: 八音盒（沙漠夜晚）
+		Tooltip: ""
+	}
+
+	FrostLegionBoxItem: {
+		DisplayName: 八音盒（森林夜晚）
+		Tooltip: ""
+	}
+
+	GraniteBoxItem: {
+		DisplayName: 八音盒（花岗岩）
+		Tooltip: ""
+	}
+
+	HallowNightBoxItem: {
+		DisplayName: 八音盒（神圣夜晚）
+		Tooltip: ""
+	}
+
+	MarbleBoxItem: {
+		DisplayName: 八音盒（大理石）
+		Tooltip: ""
+	}
+
+	MeteorBoxItem: {
+		DisplayName: 八音盒（陨石）
+		Tooltip: ""
+	}
+
+	SkeletronPrimeBoxItem: {
+		DisplayName: 八音盒（机械骷髅王）
+		Tooltip: ""
+	}
+
+	SnowNightBoxItem: {
+		DisplayName: 八音盒（雪原夜晚）
+		Tooltip: ""
+	}
+
+	SpiderCaveBoxItem: {
+		DisplayName: 八音盒（蜘蛛洞）
+		Tooltip: ""
+	}
+
+	LavaLayerBoxItem: {
+		DisplayName: 八音盒（熔岩层）
+		Tooltip: ""
+	}
+
+	NeonMossBoxItem: {
+		DisplayName: 八音盒（氖苔藓）
+		Tooltip: ""
+	}
+
+	UndergroundTownBoxItem: {
+		DisplayName: 八音盒（地下城镇）
+		Tooltip: ""
+	}
+
+	VictoryDayBoxItem: {
+		DisplayName: 八音盒（胜利日）
+		Tooltip: ""
+	}
+
+	OtherworldBlizzardBoxItem: {
+		DisplayName: 异界八音盒（暴雪）
+		Tooltip: ""
+	}
+}

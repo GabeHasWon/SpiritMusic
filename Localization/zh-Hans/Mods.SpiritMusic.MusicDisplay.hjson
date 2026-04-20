@@ -1,0 +1,91 @@
+ModName: 魂灵音乐
+Salvati: Salvati
+Sbubby: Sbubby
+By: 作者：
+BySalvati: "{$By} {$Salvati}"
+BySbubby: "{$By} {$Sbubby}"
+
+Blizzard: {
+	DisplayName: Shivering Storms（主题曲：暴雪）
+	Author: "{$BySalvati}"
+}
+
+CorruptNight: {
+	DisplayName: Nightmare Fuel（主题曲：腐化之地 - 夜）
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+CrimsonNight: {
+	DisplayName: Razor's Edge（主题曲：猩红之地 - 夜）
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+DesertNight: {
+	DisplayName: Kempt Dunes（主题曲：沙漠 - 夜）
+	Author: "{$BySalvati}"
+}
+
+FrostLegion: {
+	DisplayName: Tougher Chill（主题曲：冰霜军团）
+	Author: "{$BySalvati}"
+}
+
+Granite: {
+	DisplayName: Resounding Stones（主题曲：花岗岩）
+	Author: "{$BySalvati}"
+}
+
+HallowNight: {
+	DisplayName: Wonderous Landscape（主题曲：神圣之地 - 夜）
+	Author: "{$BySalvati}"
+}
+
+MarbleBiome: {
+	DisplayName: Regal Tunnel（主题曲：大理石）
+	Author: "{$BySalvati}"
+}
+
+Meteor: {
+	DisplayName: Space Rocks!（主题曲：陨石）
+	Author: "{$BySalvati}"
+}
+
+SnowNight: {
+	DisplayName: Icy Stars（主题曲：雪原 - 夜）
+	Author: "{$BySalvati}"
+}
+
+SpiderCave: {
+	DisplayName: Xyresic Horrors（主题曲：蜘蛛洞）
+	Author: "{$BySalvati}"
+}
+
+SkeletronPrime: {
+	DisplayName: Thermite Assault（主题曲：机械骷髅王）
+	Author: "{$BySalvati}, {$Sbubby}"
+}
+
+LavaLayer: {
+	DisplayName: Magmatic Depths（主题曲：熔岩层）
+	Author: "{$BySbubby}"
+}
+
+NeonMoss: {
+	DisplayName: Radiant Grotto（主题曲：氖苔藓）
+	Author: "{$BySbubby}"
+}
+
+TownUnderground: {
+	DisplayName: Subsurface Settlement（主题曲：地下城镇）
+	Author: "{$BySbubby}"
+}
+
+VictoryDay: {
+	DisplayName: Overworld Alt Alt（主题曲：胜利日）
+	Author: "{$BySalvati}"
+}
+
+OtherworldBlizzard: {
+	DisplayName: Otherworldly Blizzard
+	Author: "{$By} Soba Noodles"
+}
