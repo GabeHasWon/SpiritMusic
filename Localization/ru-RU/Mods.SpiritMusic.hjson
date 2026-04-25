@@ -78,8 +78,8 @@ Configs: {
 		}
 
 		VictoryDay: {
-			Label: «Победоносный день»
-			Tooltip: Включает музыкальную тему «победоносного дня»: «Overworld Alt Alt»
+			Label: День победы
+			Tooltip: Включает музыкальную тему «Дня победы»: «Adventurer's Triumph»
 		}
 	}
 }
