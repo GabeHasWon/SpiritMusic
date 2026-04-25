@@ -79,7 +79,7 @@ Configs: {
 
 		VictoryDay: {
 			Label: 胜利日
-			Tooltip: 开关胜利日（"Overworld Alt Alt"）音乐。
+			Tooltip: 开关胜利日（"Adventurer's Triumph"）音乐。
 		}
 	}
 }
