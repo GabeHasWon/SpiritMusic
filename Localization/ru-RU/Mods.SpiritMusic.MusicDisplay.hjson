@@ -81,7 +81,7 @@ TownUnderground: {
 }
 
 VictoryDay: {
-	DisplayName: Победоносный день: Overworld Alt Alt
+	DisplayName: День победы: Adventurer's Triumph
 	Author: "{$BySalvati}"
 }
 
