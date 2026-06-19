@@ -1,3 +1,4 @@
-v1.0.0.12
-- Updated Russian localization (thanks alinahvoshch!)
-- Added Chinese localization (thanks Linnnnnnnnnna!)
+v1.0.0.13
+- Updated Blizzard, Corrupt Night, Crimson Night, Desert Night, Frost Legion, Granite, Hallow Night, Lava Layer, Marble, Meteor, Neon Moss, Otherworld Blizzard, Skeletron Prime, Snow Night, Spider Caves, Underground Town, Victory Day music boxes
+- Added an icon_small
+- Added new Crimson Night theme: Carnage Domain (by Sbubby)
