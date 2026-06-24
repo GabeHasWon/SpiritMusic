@@ -14,12 +14,12 @@ Configs: {
 
 		CrimsonNight: {
 			Label: 猩红夜晚
-			Tooltip: 开关猩红夜晚（"Shivering Storms"）音乐。
+			Tooltip: 开关猩红夜晚（"SCarnage Domain"）音乐。
 		}
 
 		SnowNight: {
 			Label: 雪原夜晚
-			Tooltip: 开关雪原夜晚（"Icy Storms"）音乐。
+			Tooltip: 开关雪原夜晚（"Icy Stars"）音乐。
 		}
 
 		HallowNight: {
