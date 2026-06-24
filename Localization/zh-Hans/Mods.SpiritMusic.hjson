@@ -14,7 +14,7 @@ Configs: {
 
 		CrimsonNight: {
 			Label: 猩红夜晚
-			Tooltip: 开关猩红夜晚（"SCarnage Domain"）音乐。
+			Tooltip: 开关猩红夜晚（"Carnage Domain"）音乐。
 		}
 
 		SnowNight: {
