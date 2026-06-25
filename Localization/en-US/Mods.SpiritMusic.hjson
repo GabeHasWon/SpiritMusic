@@ -14,12 +14,12 @@ Configs: {
 
 		CrimsonNight: {
 			Label: Crimson Night
-			Tooltip: Toggles the Crimson Night's ("Shivering Storms") music.
+			Tooltip: Toggles the Crimson Night's ("Carnage Domain") music.
 		}
 
 		SnowNight: {
 			Label: Snow Night
-			Tooltip: Toggles the Snow Night's ("Icy Storms") music.
+			Tooltip: Toggles the Snow Night's ("Icy Stars") music.
 		}
 
 		HallowNight: {

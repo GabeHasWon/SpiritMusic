@@ -14,12 +14,12 @@ Configs: {
 
 		CrimsonNight: {
 			Label: Ночной багрянец
-			Tooltip: Включает музыкальную тему ночного багрянца: «Shivering Storms»
+			Tooltip: Включает музыкальную тему ночного багрянца: «Carnage Domain»
 		}
 
 		SnowNight: {
 			Label: Ночные снега
-			Tooltip: Включает музыкальную тему ночных снегов: «Icy Storms»
+			Tooltip: Включает музыкальную тему ночных снегов: «Icy Stars»
 		}
 
 		HallowNight: {
